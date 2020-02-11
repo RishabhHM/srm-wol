@@ -53,4 +53,8 @@
     footer {
       text-align: center;
     }
+
+    .content-wrapper {
+      margin-top: 15%;
+    }
   }

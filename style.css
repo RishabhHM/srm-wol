@@ -242,6 +242,12 @@
     margin-top: 15px;
     font-size: 15px;
     color: #b3aeb5;
+    height: 12vh;
+  }
+
+  .lesson-link {
+    background-color: #3b5998;
+    margin-top: 10px;
   }
   
   .heading h3 {
@@ -288,3 +294,7 @@
     padding: 21px 0;
     display: none;
   }  
+
+  .content-wrapper {
+    margin-top: 5%;
+  }
